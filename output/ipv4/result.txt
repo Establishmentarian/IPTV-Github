@@ -1,6 +1,9 @@
 📺央卫视备用频道,#genre#
-CCTV-15,http://69.30.246.194/live/cctv15.m3u8
-CCTV-15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8
+CCTV-5,http://60.13.52.236:65500/newlive/live/hls/5/live.m3u8
+CCTV-15,http://39.152.103.17:8089/tsfile/live/1014_1.m3u8
+CCTV-15,http://120.76.248.139/live/bfgd/4200000133.m3u8
+CETV-1,http://39.152.103.17:8089/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&down=1
+CETV-4,http://39.152.103.17:8089/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&down=1
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
@@ -18,7 +21,6 @@ CCTV-15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
-黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
@@ -29,7 +31,17 @@ CCTV-15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+江苏卫视,http://120.76.248.139/live/bfgd/4200000085.m3u8
+江苏卫视,http://39.152.103.17:8089/tsfile/live/1038_1.m3u8
+江苏卫视,http://1.31.14.70:54321/hls/3/index.m3u8
+江苏卫视,http://69.30.246.194/live/jsws.m3u8
+江苏卫视,http://61.163.181.78:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://222.169.85.8:9901/tsfile/live/0127_1.m3u8
+江苏卫视,http://222.214.208.34:59901/tsfile/live/0127_1.m3u8
+江苏卫视,http://183.223.157.33:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
+辽宁卫视,http://120.76.248.139/live/bfgd/4200000058.m3u8
+辽宁卫视,http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
@@ -49,4 +61,4 @@ CCTV-15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8
 🌊港·澳·台,#genre#
 
 🕘️更新时间,#genre#
-2026-03-08 18:39:33,http://69.30.246.194/live/cctv15.m3u8
+2026-03-09 06:40:53,http://60.13.52.236:65500/newlive/live/hls/5/live.m3u8
