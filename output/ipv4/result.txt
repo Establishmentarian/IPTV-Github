@@ -1,27 +1,13 @@
 📺央卫视备用频道,#genre#
-CCTV-1,http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://1.24.39.180:9003/hls/3/index.m3u8
-CCTV-3,http://ak6668768.zicp.io:8802/live1003.m3u8
-CCTV-3,http://60.13.52.236:65500/newlive/live/hls/3/live.m3u8
-CCTV-3,http://183.223.157.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://1.24.39.180:9003/hls/6/index.m3u8
-CCTV-6,http://120.40.39.246:352/newlive/live/hls/7/live.m3u8
+CCTV-1,http://120.76.248.139/live/bfgd/4200000489.m3u8
+CCTV-1,http://120.76.248.139/live/bfgd/4200000201.m3u8
+CCTV-1,http://120.76.248.139/live/bfgd/4200000484.m3u8
+CCTV-1,http://120.40.39.246:352/newlive/live/hls/1/live.m3u8
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-CCTV-8,http://1.24.39.180:9003/hls/8/index.m3u8
-CCTV-8,http://120.40.39.246:352/newlive/live/hls/9/live.m3u8
-CCTV-8,http://ak6668768.zicp.io:8807/live1008.m3u8
-CCTV-8,http://120.76.248.139/live/bfgd/4200000066.m3u8
-CCTV-8,http://222.214.208.34:59901/tsfile/live/0008_1.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-11,http://1.24.39.180:9003/hls/11/index.m3u8
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
-CCTV-12,http://120.40.39.246:352/newlive/live/hls/13/live.m3u8
-CCTV-12,http://183.223.157.33:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
-CCTV-15,http://1.24.39.180:9003/hls/15/index.m3u8
-CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-CETV-1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
+CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 文化精品,http://107.150.60.122/live/ysjp.m3u8
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -47,10 +33,7 @@ CETV-1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-江苏卫视,http://183.223.157.33:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://222.214.208.34:59901/tsfile/live/0127_1.m3u8
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
 辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
@@ -60,8 +43,8 @@ CETV-1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
-深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视,http://free.cnlive.club/channel/6a20c2b1.m3u8
+深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
@@ -73,4 +56,4 @@ CETV-1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 🌊港·澳·台,#genre#
 
 🕘️更新时间,#genre#
-2026-05-12 07:24:28,http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-05-12 20:06:50,http://120.76.248.139/live/bfgd/4200000489.m3u8
